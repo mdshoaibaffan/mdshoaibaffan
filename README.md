@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 Currently Working On
+### 🚀 Worked On
 - **Blockchain Enabled EHR System**  
   Integrating ML + NLP disease prediction and secure ledger transactions.
 
